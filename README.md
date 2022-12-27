@@ -13,9 +13,9 @@
 
 <br />
 
-👋 Hello, I'm @AngeloCastilloPerez, i am very interested in the world of data, particularly Data Analysis. I am an Industrial Engineer by profession and I am 27 years old, I would love to lead AI development programs in the future.
+👋 Hi, I'm @AngeloCastilloPerez, I'm very interested in the world of data. I am an Industrial Engineer by profession and I am 27 years old, I would love to lead AI development programs in the future.
 
-I am currently learning Python, R, and SQL and NoSQL languages, I have knowledge in analysis and Front-ed tools such as Power bi, and Excel Advanced level (Macros).
+I currently use languages such as Python, R and SQL, I have knowledge of analysis tools and Front-ed such as Power bi, and Excel Advanced level (Macros).
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
