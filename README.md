@@ -13,7 +13,7 @@
 
 <br />
 
-👋 Hi, I'm @AngeloCastilloPerez, I'm very interested in the world of data. I am an Industrial Engineer by profession and I am 27 years old, I would love to lead AI development programs in the future.
+👋 Hi, I'm @AngeloCastilloPerez, I'm very interested in the world of data. I am an Industrial Engineer by profession and I am 28 years old, I would love to lead AI development programs in the future.
 
 I currently use languages such as Python, R and SQL, I have knowledge of analysis tools and Front-ed such as Power bi, and Excel Advanced level (Macros).
 
