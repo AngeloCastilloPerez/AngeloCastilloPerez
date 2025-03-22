@@ -7,23 +7,38 @@
 
 <br />
 
-👋 Hi, I'm @AngeloCastilloPerez, I'm very interested in the world of data. I am an Industrial Engineer by profession and I am 29 years old, I would love to lead AI development programs in the future.
+### 👋 Hi, I'm @AngeloCastilloPerez
 
-I currently use languages such as Python, R and SQL, I have knowledge of analysis tools and Front-ed such as Power bi, and Excel Advanced level (Macros).
+I'm passionate about the world of data and technology. As an Industrial Engineer, I'm deeply interested in Artificial Intelligence and how it can be used to create real impact and improve people's lives.  
+I'm currently working with AI and Large Language Models (LLMs), managing teams and leading projects focused on innovative solutions.
 
+💡 My goal is to lead AI development programs and contribute to meaningful technological advancements.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
-- 💬 ask me about anything, i am happy to help;
+---
 
-**languages and tools:**  
+🛠️ **Tech Stack & Skills**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+**Languages:** Python, R, SQL  
+**AI & Data:** LLMs, Data Analysis, Machine Learning  
+**Tools & Platforms:** Power BI, Excel (Advanced, including Macros), Dashboard Development  
+**Leadership:** Team management and project coordination
 
+I believe in using technology to solve real-world problems and make a positive difference.  
+Let’s connect and build the future together 🚀
 
-- 💞️ I'm looking to collaborate on every projects.
-- 📫 How to get to me > angelocastilloperz@outlook.es
+---
+
+💬 Ask me about anything — I'm happy to help!  
+🛠️ **Languages and tools:**  
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)  
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql)  
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+
+---
+
+💕 I'm looking to collaborate on exciting projects.  
+📫 How to reach me: [angelocastilloperz@outlook.es](mailto:angelocastilloperz@outlook.es)
+
 
 <!---
 AngeloCastilloPJ/AngeloCastilloPJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
