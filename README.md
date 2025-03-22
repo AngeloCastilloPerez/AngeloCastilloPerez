@@ -1,10 +1,3 @@
-### HOLA!
-<a href="https://www.instagram.com/angelocastilloperz/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
 ### 👋 Hi, I'm @AngeloCastilloPerez
